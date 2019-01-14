@@ -1,6 +1,6 @@
 {
-  "name": "angular-pwa",
-  "short_name": "angular-pwa",
+  "name": "John Makridis",
+  "short_name": "john-makridis",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -12,10 +12,25 @@
       "/": {
         "prefix": false
       },
-      "/page1": {
+      "/education": {
         "prefix": true
       },
-      "/page2": {
+      "/experience": {
+        "prefix": true
+      },
+      "/skills": {
+        "prefix": true
+      },
+      "/services": {
+        "prefix": true
+      },
+      "/projects": {
+        "prefix": true
+      },
+      "/publications": {
+        "prefix": true
+      },
+      "/contact": {
         "prefix": true
       }
     }
