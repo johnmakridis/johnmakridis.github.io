@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.2c5cd183a923124a6f0e.js",
+        "/polyfills.4c686a24ea7995742446.js",
+        "/runtime.ec2944dd8b20ec099bf3.js",
+        "/styles.abba8267af1e62cbbb25.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/fonts/material-icons/MaterialIcons-Regular.eot",
+        "/assets/fonts/material-icons/MaterialIcons-Regular.ijmap.txt",
+        "/assets/fonts/material-icons/MaterialIcons-Regular.svg",
+        "/assets/fonts/material-icons/MaterialIcons-Regular.ttf",
+        "/assets/fonts/material-icons/MaterialIcons-Regular.woff",
+        "/assets/fonts/material-icons/MaterialIcons-Regular.woff2",
+        "/assets/fonts/material-icons/README.md.txt",
+        "/assets/fonts/material-icons/codepoints.txt",
+        "/assets/fonts/material-icons/material-icons.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/fonts/material-icons/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/assets/fonts/material-icons/MaterialIcons-Regular.ijmap.txt": "df468e87685c24b2a5d431036d4d5a434efdc28e",
+    "/assets/fonts/material-icons/MaterialIcons-Regular.svg": "137fc1c359db21f338ef9f8fe3dd83db5cb81784",
+    "/assets/fonts/material-icons/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/assets/fonts/material-icons/MaterialIcons-Regular.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/assets/fonts/material-icons/MaterialIcons-Regular.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/assets/fonts/material-icons/README.md.txt": "9e1c7d5992e1c7234775064e4de1d9fe60349c9f",
+    "/assets/fonts/material-icons/codepoints.txt": "9691b1d00fc99efe85f10bde89661f3c82ea09ed",
+    "/assets/fonts/material-icons/material-icons.css": "e5583bb5718bf9902812fbf2277d2bf8378e2687",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "27909f71fcd348fb757a6a2bf61dc93cc0e5cbde",
+    "/main.2c5cd183a923124a6f0e.js": "cae88d618a9e068795b63bb1338b35ef7b5a171a",
+    "/polyfills.4c686a24ea7995742446.js": "4ab98e11e44c4bc97507dfc711f8420a47d6f18e",
+    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.abba8267af1e62cbbb25.css": "727ab083d6602732eaffd1071b90a1089f8c438b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
