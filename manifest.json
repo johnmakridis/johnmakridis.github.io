@@ -1,6 +1,6 @@
 {
   "name": "John Makridis",
-  "short_name": "john-makridis",
+  "short_name": "John Makridis",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -13,25 +13,25 @@
         "prefix": false
       },
       "/education": {
-        "prefix": true
+        "prefix": false
       },
       "/experience": {
-        "prefix": true
+        "prefix": false
       },
       "/skills": {
-        "prefix": true
+        "prefix": false
       },
       "/services": {
-        "prefix": true
+        "prefix": false
       },
       "/projects": {
-        "prefix": true
+        "prefix": false
       },
       "/publications": {
-        "prefix": true
+        "prefix": false
       },
       "/contact": {
-        "prefix": true
+        "prefix": false
       }
     }
   },
