@@ -9,10 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8e2e185c7c57ec776b8b.js",
-        "/polyfills.4c686a24ea7995742446.js",
+        "/main.0dfacd1cfc3957b6d1ea.js",
+        "/polyfills.c6871e56cb80756a5498.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
-        "/styles.f4fe76a63176128f0522.css"
+        "/scripts.394c4d5f8ab9a4bc3bda.js",
+        "/styles.9d396e718b2d608460bc.css"
       ],
       "patterns": []
     },
@@ -21,6 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/data.json",
         "/assets/fonts/material-icons/MaterialIcons-Regular.eot",
         "/assets/fonts/material-icons/MaterialIcons-Regular.ijmap.txt",
         "/assets/fonts/material-icons/MaterialIcons-Regular.svg",
@@ -37,13 +39,23 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/john-makridis.jpg",
+        "/assets/js/scripts.js",
+        "/assets/scss/_bootstrap-overrides.scss",
+        "/assets/scss/_global.scss",
+        "/assets/scss/_mixins.scss",
+        "/assets/scss/_nav.scss",
+        "/assets/scss/_resume-item.scss",
+        "/assets/scss/_variables.scss",
+        "/assets/scss/resume.scss"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/data.json": "2831e8b975733a53fe23a89f47acfa2ccfc26778",
     "/assets/fonts/material-icons/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
     "/assets/fonts/material-icons/MaterialIcons-Regular.ijmap.txt": "df468e87685c24b2a5d431036d4d5a434efdc28e",
     "/assets/fonts/material-icons/MaterialIcons-Regular.svg": "137fc1c359db21f338ef9f8fe3dd83db5cb81784",
@@ -61,12 +73,22 @@
     "/assets/icons/icon-512x512.png": "9197a7374eac1a7342acf9817fcefaa3f9617de8",
     "/assets/icons/icon-72x72.png": "0c7d2b29f984bc9f32d5e1ae5679d1f480dc4467",
     "/assets/icons/icon-96x96.png": "4a6a7e8905558b44bb76548af57414481293c501",
+    "/assets/img/john-makridis.jpg": "81a610b5bdb888715526121df362d0a0a8f10dbf",
+    "/assets/js/scripts.js": "71ad144972ddaa8e88ce2ad93deac7cd450aa92a",
+    "/assets/scss/_bootstrap-overrides.scss": "b2c1fc0bdba6750ede9010a4e23a36c2241163f9",
+    "/assets/scss/_global.scss": "0af3b3ccfe4afed2e8642702d17c1ca12e727890",
+    "/assets/scss/_mixins.scss": "f6fa43500840f1f9fc9e69303f79ffe642330b05",
+    "/assets/scss/_nav.scss": "b98a1663d2d001164700157d235b911f4114ed86",
+    "/assets/scss/_resume-item.scss": "f47305415c01d20b31d920336a098743fec39fd2",
+    "/assets/scss/_variables.scss": "c468cd65d887d3c11df1750964d8171ba5dcf747",
+    "/assets/scss/resume.scss": "0a1223cc845b0420cafa282cfc01f1411620a1a5",
     "/favicon.ico": "ac3f16aa7ed24337347400b452bc1c7b89e089a8",
-    "/index.html": "0eae5fcdeb3e97af29bb00e88c5070599873c2f8",
-    "/main.8e2e185c7c57ec776b8b.js": "1522771bb81d2d0d8bed13597e03e8670734cf7f",
-    "/polyfills.4c686a24ea7995742446.js": "4ab98e11e44c4bc97507dfc711f8420a47d6f18e",
+    "/index.html": "25f24ff0cd4e6490420c76c56278ec882dae9004",
+    "/main.0dfacd1cfc3957b6d1ea.js": "af3b514f0c6f3105e4a718dff975542af9db4ccb",
+    "/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.f4fe76a63176128f0522.css": "879d473de5e4f64643a1e6a00f2e6734d89f246d"
+    "/scripts.394c4d5f8ab9a4bc3bda.js": "7d8b60ed5934491c737080382384483265d518a0",
+    "/styles.9d396e718b2d608460bc.css": "8452aab78e8e2387df83b62e92b0c98354e75ced"
   },
   "navigationUrls": [
     {

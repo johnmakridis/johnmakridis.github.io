@@ -1,0 +1,367 @@
+{
+  "bio": {
+    "firstname": "John",
+    "lastname": "Makridis",
+    "fullname": "John Makridis",
+    "headline": "Software Engineer",
+    "location": "Heraklion, Greece",
+    "intro_text": "Hello! I'm John. I am a programmer with passion for designing and developing modern web applications and information systems. I have been dealing with computer science for the last eight years and I have developed the set of skills required to offer customized solutions to enterprises and individuals, aiming to fully meet their daily needs with intelligent and automated systems.",
+    "short_bio": "<p class='align-justify'>I was born on December 2, 1991 in Patras, Greece and currently I live in the city of Heraklion Crete, Greece. At the age of 17 I made my first steps in computer science by learning the basics on the computer architecture, data structures, databases and programming. In 2010, after my graduation from high school, I started my university studies at <a href='http://teicrete.gr/en' target='_blank'>Technological Educational Institute of Crete</a> where I received the BSc degree in Information Systems from the <a href='http://www.teicrete.gr/bm/en' target='_blank'>Department of Business Planning and Information Systems</a>. </p> <p class='align-justify'>In 2016, I started my postgraduate studies at the <a href='http://www.teicrete.gr/ie/en' target='_blank'>Department of Informatics Engineering</a> of Technological Educational Institute of Crete and I received the MSc degree in Informatics and Multimedia with specialization in Software Technology and Applications in early 2018.</p> <p class='align-justify'> Since May 2016, I am Research Associate of the research laboratory <a href='http://www.e-bilab.gr/en/' target='_blank'>e-Business Intelligence Lab</a> of TEI Crete. My research interests are focused on areas such as web programming & technologies, data analytics, business intelligence and machine learning. </p> <p class='align-justify'>Today I'm working as software developer specialized in analysis, design and development of web applications and information systems. Currently, I’m working as a front-end developer at <a href='http://mentionlytics.com' target='_blank'>Mentionlytics LTD</a>. Also, I'm working voluntarily as web manager at <a href='http://bizrupt.gr' target='_blank'>Bizrupt Lab</a> and co-organizer at <a href='http://opencoffeeheraklion.gr' target='_blank'>Open Coffee Heraklion</a>. In my spare time, I like to listen and mix music and playing online games. :) </p>",
+    "social": {
+      "github_url": "https://github.com/johnmakridis",
+      "linkedin_url": "https://www.linkedin.com/in/johnmakridis"
+    }
+  },
+  "education": [
+    {
+      "degree": "MSc in Informatics and Multimedia",
+      "department": "Department of Informatics Engineering",
+      "grade": "9.02",
+      "institute": "Technological Educational Institute of Crete",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Feducation%2Fteicrete_transparent.png?alt=media&token=c4aa4e43-025c-4c28-b30d-c21dbd0b8d39",
+      "period": "September 2016 - February 2018",
+      "specialization": "Software Technology and Applications",
+      "thesis": "«Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSNs)»",
+      "thesis_url": "https://doi.org/10.13140/RG.2.2.26878.69442/1",
+      "website": "http://teicrete.gr/en"
+    },
+    {
+      "degree": "BSc in Information Systems",
+      "department": "Department of Business Planning and Information Systems",
+      "grade": "6.96",
+      "institute": "Technological Educational Institute of Crete",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Feducation%2Fteicrete_transparent.png?alt=media&token=c4aa4e43-025c-4c28-b30d-c21dbd0b8d39",
+      "period": "October 2010 - December 2015",
+      "specialization": null,
+      "thesis": "«Design and development of qualified special purpose CRM system»",
+      "thesis_url": "http://hdl.handle.net/11713/7611",
+      "website": "http://teicrete.gr/en"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mentionlytics",
+      "current": true,
+      "description": "<ul><li>Web & Mobile Application Development</li></ul>",
+      "id": 4,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fmentionlytics_small.png?alt=media&token=08ac1055-7f9c-4c62-a882-f6ec05dd13cb",
+      "period": "April 2017 - Present",
+      "position": "Software Developer",
+      "website": "http://mentionlytics.com/"
+    },
+    {
+      "company": "e-Business Intelligence Lab",
+      "current": true,
+      "description": "Topics: <ul> <li>Software Engineering</li> <li>Machine Learning</li> <li>Data Analytics</li> <li>e-Business</li> </ul>",
+      "id": 3,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fe-bi_small.png?alt=media&token=2d2ca917-7596-4c22-9e34-966ae8a42c95",
+      "period": "May 2016 - Present",
+      "position": "Research Associate",
+      "website": "http://www.e-bilab.gr/en/welcome"
+    },
+    {
+      "company": "Technological Educational Institute of Crete",
+      "description": "Department of Informatics Engineering<br>Courses: <ul> <li> Web Development </li> <li>Databases</li> <li>Programming Languages (C++)</li> </ul>",
+      "id": 2,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Ftei-of-crete.png?alt=media&token=4ae441b4-eb45-48c3-9ad1-e593c019577f",
+      "period": "February 2017 - February 2018",
+      "position": "Laboratory Teaching Assistant",
+      "website": "http://teicrete.gr/en"
+    },
+    {
+      "company": "Ubicom | Business Consultants",
+      "description": "<ul><li>Web Applications Development</li></ul>",
+      "id": 1,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fubicom_logo_small.png?alt=media&token=aff93a14-e27d-4d60-9b84-2fd2e5dd2b3a",
+      "period": "October 2014 - October 2015",
+      "position": "Web Developer",
+      "website": "http://www.ubicom.gr"
+    }
+  ],
+  "experience_volunteer": [
+    {
+      "company": "Open Coffee Heraklion",
+      "description": "",
+      "id": 1,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fopencoffee_small.png?alt=media&token=3b099aae-7223-467f-a5e1-79e112a22854",
+      "logo_size": "18% auto",
+      "period": "02/2017 - Present",
+      "position": "Co-Organizer",
+      "website": "http://opencoffeeheraklion.gr"
+    },
+    {
+      "company": "Bizrupt Lab",
+      "description": "",
+      "id": 2,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fbizrupt_small.png?alt=media&token=bbee6981-27a0-4c5c-9d52-403ef7cb0742",
+      "logo_size": "26% auto",
+      "period": "12/2017 - Present",
+      "position": "Web Manager",
+      "website": "http://bizrupt.gr/"
+    }
+  ],
+  "projects": [
+    {
+      "full_description": "",
+      "id": 7,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Finfiniteblueapts.png?alt=media&token=46f2a4d8-c9ee-4173-a7cc-80257ebf0848",
+      "name": "InfiniteBlueApts.com",
+      "project_class": "filter-website",
+      "project_date": "December 2017 - February 2018",
+      "project_type": "Website",
+      "project_type_class": "website",
+      "project_website": "https://infiniteblueapts.com/",
+      "short_description": "Business website for apartments' presentation including apartments management system, bookings, online payments etc.",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fkat-hosp.png?alt=media&token=de1fefbe-b839-48f3-a682-82ba03c2ee39",
+      "name": "Kat-Hosp.gr",
+      "project_class": "filter-website",
+      "project_date": "October 2017 - January 2018",
+      "project_type": "Website",
+      "project_type_class": "website",
+      "project_website": "http://www.kat-hosp.gr/",
+      "short_description": "Website for the General Hospital of Attica KAT - Athens, Greece.",
+      "work_type": "Team Work"
+    },
+    {
+      "full_description": "",
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2FgoPest.png?alt=media&token=33333acc-7f9f-4470-b399-70c3f7cb5cc8",
+      "name": "PegGO Client",
+      "project_class": "filter-web-app",
+      "project_date": "October - November 2016",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "",
+      "short_description": "Custom single-page web application (SPA) interconnected with information system Pegasus ERP through RESTful API Service.",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fre-search.png?alt=media&token=bf93e49c-f21a-4c17-8581-25e4ad4ac23c",
+      "name": "Re-Search.gr - Custom Search Engine",
+      "project_class": "filter-website",
+      "project_date": "June 2016",
+      "project_type": "Website",
+      "project_type_class": "website",
+      "project_website": "http://www.re-search.gr/",
+      "short_description": "Custom Search Engine (CSE) based on Google where users can find information from the higher education structures in Greece.",
+      "work_type": "Team Work"
+    },
+    {
+      "full_description": "",
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fweb-app_espa.png?alt=media&token=c12d31b8-6bdf-4254-bd6b-a86b87333e04",
+      "name": "NSRF Funding (Eligibility Checker)",
+      "project_class": "filter-web-app",
+      "project_date": "October 2015",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "",
+      "short_description": "Small custom web application that allows enterprises and individuals to check if they're eligible for funding from NSRF 2014-2020 programs in Greece.",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Feclipsys_support.png?alt=media&token=7c33c154-8039-47c5-9c97-2627f3c432d7",
+      "name": "Eclipsys Support",
+      "project_class": "filter-web-app",
+      "project_date": "March 2016 - April 2016",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "",
+      "short_description": "Web application synchronized with Eclipsys CRM for communication between Business and Clients (Tickets, File Exchange etc.)",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Feclipsys_crm.png?alt=media&token=8b89ee15-fdde-4d2f-a900-be1874bda4a9",
+      "name": "Eclipsys CRM",
+      "project_class": "filter-web-app",
+      "project_date": "October 2015 - March 2016",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "",
+      "short_description": "CRM web application specialized for accountants using open source web technologies. My undergraduate degree thesis.",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
+      "id": 8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fknowli.png?alt=media&token=9d29ce13-3dee-478e-be73-212e1508619b",
+      "name": "KnowLI",
+      "project_class": "filter-web-app",
+      "project_date": "October 2017 - May 2018",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "https://doi.org/10.13140/RG.2.2.26878.69442/1",
+      "short_description": "Web application for knowledge discovery through the acquisition, analysis and visualization of spatial data from social networks. My master’s (MSc) thesis.",
+      "work_type": "Individual Work"
+    }
+  ],
+  "publications": [
+    {
+      "abstract": "The evolution of ontologies is a reality in current research community. The problem of understanding and exploring this evolution is a fundamental problem as maintainers of depending artifacts need to take a decision about possible changes and ontology engineers need to understand the reasons for this evolution. Recent research focuses on identifying and statically visualizing deltas between ontology versions using various low- or high-level language of changes. In this paper, we argue that this is not enough and we provide a complete solution enabling the active, dynamic exploration of the evolution of RDF/S ontologies using provenance queries. To this direction, we construct an ontology of changes for modeling the language of changes and we store all changes as instances of this ontology in a triple store. On top of this triple store two visualization modules, one individual app and one protégé plugin allow the exploration of the evolution using provenance queries. To the best of our knowledge our approach is unique in allowing the dynamic exploration of the evolution using provenance queries.",
+      "book": null,
+      "conference": "Conference: <a href='https://2017.eswc-conferences.org/' target='_blank'>Extended Semantic Web Conference (ESWC)</a>",
+      "doi": "DOI: <a href='https://doi.org/10.1007/978-3-319-70407-4_20' target='_blank'>https://doi.org/10.1007/978-3-319-70407-4_20 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 1,
+      "journal": null,
+      "published_date": "November 08, 2017",
+      "published_in": null,
+      "publisher": "Publisher: <b>Springer, Cham</b>",
+      "title": "EvoRDF: A Framework for Exploring Ontology Evolution",
+      "type": "Conference Paper",
+      "url": "https://doi.org/10.1007/978-3-319-70407-4_20"
+    },
+    {
+      "abstract": "Current research argues that eLearning and mobile learning are forms of learning that could take place outside the classroom and the traditional learning environments. In addition, recent advancement in technology and increased use of smart devices permit students to carry with them a kind of portable smart device. Inevitably, sooner or later, these devices will become integral educational tools, such as pencils and books, while learning outside the classroom will continue to gain popularity as another form of learning. Ubiquitous learning aims to stimulate the wide use of ICT in Education and the enactment of autonomous digital resources for Outdoor learning. Technology could provide innovative ways of conducting outdoor courses, encompassing knowledge and physical activity. This paper presents the eClass-Pi system that facilitates outside the classroom eLearning and m-learning educational processes. It provides all the functionalities of a typical Learning Management Systems as well as synchronous and asynchronous teaching, portability and energy autonomy.",
+      "book": null,
+      "conference": "Conference: <a href='http://archive.artsit.org/2017/show/home' target='_blank'>EAI International Conference on Design, Learning & Innovation</a>",
+      "doi": "DOI: <a href='https://doi.org/10.1007/978-3-319-76908-0_34' target='_blank'>https://doi.org/10.1007/978-3-319-76908-0_34 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 2,
+      "journal": null,
+      "published_date": "March 07, 2018",
+      "published_in": null,
+      "publisher": "Publisher: <b>Springer, Cham</b>",
+      "title": "Facilitating Learning in Isolated Places Through an Autonomous LMS",
+      "type": "Conference Paper",
+      "url": "https://doi.org/10.1007/978-3-319-76908-0_34"
+    },
+    {
+      "abstract": "Social media networks are a resource for valuable knowledge about tourist destinations through the collection of data by Location-Based Social Networks (LBSN). A major problem is the lack of knowledge in respect to the visitors’ views about a destination, as well as the fact that the visitors’ behavior needs and preferences are not visible. Many enterprises and local authorities are still using traditional methods for acquiring knowledge to make strategic decisions, by collecting data from questionnaires. Nonetheless, this process, despite its benefits, is short-lived and the number of the participants is small compared to the number of visitors. This chapter discusses a methodology for the extraction, association, analysis, and visualization of data derived from LBSNs. This provides knowledge of visitor behaviors, impressions and preferences for tourist destinations. A case study of Crete in Greece is included, based upon visitors’ posts and reviews, nationality, photos, place rankings, and engagement.",
+      "book": "Book: <a href='http://doi.org/10.1007/978-981-13-6339-9' target='_blank'>Big Data and Innovation in Tourism, Travel, and Hospitality: Managerial Approaches, Techniques & Applications</a>",
+      "conference": "",
+      "doi": "DOI: <a href='https://doi.org/10.1007/978-981-13-6339-9_7' target='_blank'>https://doi.org/10.1007/978-981-13-6339-9_7 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 4,
+      "journal": null,
+      "published_date": "February 27, 2019",
+      "published_in": null,
+      "publisher": "Publisher: <b>Springer, Singapore</b>",
+      "title": "Location-Based Social Network Data for Tourism Destinations",
+      "type": "Book Chapter",
+      "url": ""
+    },
+    {
+      "abstract": "Current research argues that the use of social networks can be a dominant resource for acquiring valuable knowledge about tourist destinations through the collection of data from Location-Based Social Networks (LBSN). This approach can provide solutions to problems and significant benefits to enterprises and local authorities. One of the most important problems is the lack of knowledge about the visitor's opinion for a destination, as well as the fact that the visitors' behavior, needs and preferences are not visible. Nowadays, enterprises and local authorities are still using the traditional method for acquiring valuable knowledge to make strategic decisions, using data from surveys conducted using questionnaires. In this process, despite the benefits it can offer, it can be observed that it is not continuous, it is not adaptable, and the number of the participants in most of the cases is quite small compared to the total number of visitors. This thesis presents the methodology for extraction, association, analysis and visualization of data derived from Location-Based Social Networks, providing valuable knowledge about visitors’ behavior, impressions and preferences for tourist destinations. In that context, using a case study of the region of Crete (Greece) as tourist destination the overall insights of visitors are identified. Utilizing state of the art web technologies for the development of this monitoring framework, we will collect publicly available social data for the selected tourism destinations. Some of the data that need to be collected for the process of analysis are the visitors’ posts and reviews, publication’s date and time, published photos, places’ rankings, user’s profile, nationality and engagement. After the completion of data collection, the correlation and analysis are followed, presenting data visualization in a proper and efficient way to the stakeholders. Having acquired this valuable knowledge about the visitors’ behavior and preferences, the stakeholders such as local authorities, enterprises etc. can make a more efficient promotion of tourist destinations based on the needs of visitors, improvement of the existing facilities and creation of new experiences attracting the interest of more potential visitors.",
+      "book": null,
+      "conference": "",
+      "doi": "DOI: <a href='https://doi.org/10.13140/RG.2.2.26878.69442/1' target='_blank'>https://doi.org/10.13140/RG.2.2.26878.69442/1 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 3,
+      "journal": null,
+      "published_date": "July 26, 2018",
+      "published_in": null,
+      "publisher": "",
+      "title": "Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSN)",
+      "type": "Master's Thesis",
+      "url": "https://doi.org/10.13140/RG.2.2.26878.69442/1"
+    }
+  ],
+  "services": [
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fservices%2Fsoftware-development-icon2.png?alt=media&token=ad98548d-a257-4d9d-a565-5afb97a47b67",
+      "title": "Software Development",
+      "description": "Design and Development of modern web, mobile and desktop applications using open source technologies and tools."
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fservices%2Fdata-analysis-icon2.png?alt=media&token=10413fee-82a4-4886-8851-bc8b66cb51a0",
+      "title": "Data Analysis",
+      "description": "Knowledge discovery through the analysis of business, social or geospatial data for the support of smarter decisions and better predictions."
+    }
+  ],
+  "skills": [
+    {
+      "percent": "98",
+      "title": "Web Applications"
+    },
+    {
+      "percent": "94",
+      "title": "Information Systems"
+    },
+    {
+      "percent": "90",
+      "title": "Mobile Applications"
+    },
+    {
+      "percent": "85",
+      "title": "Desktop Applications"
+    },
+    {
+      "percent": "90",
+      "title": "Databases"
+    },
+    {
+      "percent": "92",
+      "title": "Web APIs"
+    },
+    {
+      "percent": "88",
+      "title": "Data Analytics"
+    }
+  ],
+  "technologies": [
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fjavascript.png?alt=media&token=d7e3be6c-0362-439d-b313-39bf973bcb5e",
+      "name": "JavaScript"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Ftypescript.png?alt=media&token=3ae8ada7-30e4-4503-8818-d5e6889aa0e7",
+      "name": "TypeScript"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fnodejs.png?alt=media&token=9cd16a59-9b90-48ff-a730-3215a38836c0",
+      "name": "Node.js"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fangular.png?alt=media&token=3486b8da-966c-4034-baaf-7ee843af0bb7",
+      "name": "Angular"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fionic-framework.png?alt=media&token=f8f3de1f-67c9-48ee-b265-b86d2eab5ffc",
+      "name": "Ionic"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fhtml5.png?alt=media&token=d1af54c5-00bb-4686-a77e-a842adab637c",
+      "name": "HTML"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fcss3.png?alt=media&token=67d83065-5793-422a-a56a-6cf214db1824",
+      "name": "CSS"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Felectron.png?alt=media&token=ba19e8d5-574c-4286-a315-89b3bc48170b",
+      "name": "Electron"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fjquery.png?alt=media&token=9c75bb74-9081-4c18-8f84-e6e6beac6293",
+      "name": "jQuery"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fphp.png?alt=media&token=f1869bf6-b46b-4f32-bd4e-f922b12b858c",
+      "name": "PHP"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fmysql.png?alt=media&token=64c12643-79f9-433f-84ae-edf6f42acf07",
+      "name": "MySQL"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Ffirebase.png?alt=media&token=7cb2117a-ef62-4b2f-97d6-380698b8deff",
+      "name": "Firebase"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fbootstrap.png?alt=media&token=3bf3c9ea-671e-4295-85fd-c0a8e152bf83",
+      "name": "Bootstrap"
+    },
+    {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fmaterial-design.png?alt=media&token=48628595-84da-4962-b738-941233dda2c3",
+      "name": "Material Design"
+    }
+  ]
+}

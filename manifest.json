@@ -11,27 +11,6 @@
     "routes": {
       "/": {
         "prefix": false
-      },
-      "/education": {
-        "prefix": false
-      },
-      "/experience": {
-        "prefix": false
-      },
-      "/skills": {
-        "prefix": false
-      },
-      "/services": {
-        "prefix": false
-      },
-      "/projects": {
-        "prefix": false
-      },
-      "/publications": {
-        "prefix": false
-      },
-      "/contact": {
-        "prefix": false
       }
     }
   },
