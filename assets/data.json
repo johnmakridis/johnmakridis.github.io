@@ -18,7 +18,7 @@
       "department": "Department of Informatics Engineering",
       "grade": "9.02",
       "institute": "Technological Educational Institute of Crete",
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Feducation%2Fteicrete_transparent.png?alt=media&token=c4aa4e43-025c-4c28-b30d-c21dbd0b8d39",
+      "logo": "assets/img/education/teicrete_transparent.png",
       "period": "September 2016 - February 2018",
       "specialization": "Software Technology and Applications",
       "thesis": "«Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSNs)»",
@@ -30,7 +30,7 @@
       "department": "Department of Business Planning and Information Systems",
       "grade": "6.96",
       "institute": "Technological Educational Institute of Crete",
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Feducation%2Fteicrete_transparent.png?alt=media&token=c4aa4e43-025c-4c28-b30d-c21dbd0b8d39",
+      "logo": "assets/img/education/teicrete_transparent.png",
       "period": "October 2010 - December 2015",
       "specialization": null,
       "thesis": "«Design and development of qualified special purpose CRM system»",
@@ -44,7 +44,7 @@
       "current": true,
       "description": "<ul><li>Web & Mobile Application Development</li></ul>",
       "id": 4,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fmentionlytics_small.png?alt=media&token=08ac1055-7f9c-4c62-a882-f6ec05dd13cb",
+      "logo": "assets/img/experience/mentionlytics_small.png",
       "period": "April 2017 - Present",
       "position": "Software Developer",
       "website": "http://mentionlytics.com/"
@@ -54,7 +54,7 @@
       "current": true,
       "description": "Topics: <ul> <li>Software Engineering</li> <li>Machine Learning</li> <li>Data Analytics</li> <li>e-Business</li> </ul>",
       "id": 3,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fe-bi_small.png?alt=media&token=2d2ca917-7596-4c22-9e34-966ae8a42c95",
+      "logo": "assets/img/experience/e-bi_small.png",
       "period": "May 2016 - Present",
       "position": "Research Associate",
       "website": "http://www.e-bilab.gr/en/welcome"
@@ -63,7 +63,7 @@
       "company": "Technological Educational Institute of Crete",
       "description": "Department of Informatics Engineering<br>Courses: <ul> <li> Web Development </li> <li>Databases</li> <li>Programming Languages (C++)</li> </ul>",
       "id": 2,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Ftei-of-crete.png?alt=media&token=4ae441b4-eb45-48c3-9ad1-e593c019577f",
+      "logo": "assets/img/experience/tei-of-crete.png",
       "period": "February 2017 - February 2018",
       "position": "Laboratory Teaching Assistant",
       "website": "http://teicrete.gr/en"
@@ -72,7 +72,7 @@
       "company": "Ubicom | Business Consultants",
       "description": "<ul><li>Web Applications Development</li></ul>",
       "id": 1,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fubicom_logo_small.png?alt=media&token=aff93a14-e27d-4d60-9b84-2fd2e5dd2b3a",
+      "logo": "assets/img/experience/ubicom_logo_small.png",
       "period": "October 2014 - October 2015",
       "position": "Web Developer",
       "website": "http://www.ubicom.gr"
@@ -83,7 +83,7 @@
       "company": "Open Coffee Heraklion",
       "description": "",
       "id": 1,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fopencoffee_small.png?alt=media&token=3b099aae-7223-467f-a5e1-79e112a22854",
+      "logo": "assets/img/experience/opencoffee_small.png",
       "logo_size": "18% auto",
       "period": "02/2017 - Present",
       "position": "Co-Organizer",
@@ -93,7 +93,7 @@
       "company": "Bizrupt Lab",
       "description": "",
       "id": 2,
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fexperience%2Fbizrupt_small.png?alt=media&token=bbee6981-27a0-4c5c-9d52-403ef7cb0742",
+      "logo": "assets/img/experience/bizrupt_small.png",
       "logo_size": "26% auto",
       "period": "12/2017 - Present",
       "position": "Web Manager",
@@ -266,12 +266,12 @@
   ],
   "services": [
     {
-      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fservices%2Fsoftware-development-icon2.png?alt=media&token=ad98548d-a257-4d9d-a565-5afb97a47b67",
+      "image": "assets/img/services/software-development-icon.png",
       "title": "Software Development",
       "description": "Design and Development of modern web, mobile and desktop applications using open source technologies and tools."
     },
     {
-      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fservices%2Fdata-analysis-icon2.png?alt=media&token=10413fee-82a4-4886-8851-bc8b66cb51a0",
+      "image": "assets/img/services/data-analysis-icon.png",
       "title": "Data Analysis",
       "description": "Knowledge discovery through the analysis of business, social or geospatial data for the support of smarter decisions and better predictions."
     }
@@ -308,59 +308,59 @@
   ],
   "technologies": [
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fjavascript.png?alt=media&token=d7e3be6c-0362-439d-b313-39bf973bcb5e",
+      "logo": "assets/img/technologies/javascript.png",
       "name": "JavaScript"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Ftypescript.png?alt=media&token=3ae8ada7-30e4-4503-8818-d5e6889aa0e7",
+      "logo": "assets/img/technologies/typescript.png",
       "name": "TypeScript"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fnodejs.png?alt=media&token=9cd16a59-9b90-48ff-a730-3215a38836c0",
+      "logo": "assets/img/technologies/nodejs.png",
       "name": "Node.js"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fangular.png?alt=media&token=3486b8da-966c-4034-baaf-7ee843af0bb7",
+      "logo": "assets/img/technologies/angular.png",
       "name": "Angular"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fionic-framework.png?alt=media&token=f8f3de1f-67c9-48ee-b265-b86d2eab5ffc",
+      "logo": "assets/img/technologies/ionic-framework.png",
       "name": "Ionic"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fhtml5.png?alt=media&token=d1af54c5-00bb-4686-a77e-a842adab637c",
+      "logo": "assets/img/technologies/html5.png",
       "name": "HTML"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fcss3.png?alt=media&token=67d83065-5793-422a-a56a-6cf214db1824",
+      "logo": "assets/img/technologies/css3.png",
       "name": "CSS"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Felectron.png?alt=media&token=ba19e8d5-574c-4286-a315-89b3bc48170b",
+      "logo": "assets/img/technologies/electron.png",
       "name": "Electron"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fjquery.png?alt=media&token=9c75bb74-9081-4c18-8f84-e6e6beac6293",
+      "logo": "assets/img/technologies/jquery.png",
       "name": "jQuery"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fphp.png?alt=media&token=f1869bf6-b46b-4f32-bd4e-f922b12b858c",
+      "logo": "assets/img/technologies/php.png",
       "name": "PHP"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fmysql.png?alt=media&token=64c12643-79f9-433f-84ae-edf6f42acf07",
+      "logo": "assets/img/technologies/mysql.png",
       "name": "MySQL"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Ffirebase.png?alt=media&token=7cb2117a-ef62-4b2f-97d6-380698b8deff",
+      "logo": "assets/img/technologies/firebase.png",
       "name": "Firebase"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fbootstrap.png?alt=media&token=3bf3c9ea-671e-4295-85fd-c0a8e152bf83",
+      "logo": "assets/img/technologies/bootstrap.png",
       "name": "Bootstrap"
     },
     {
-      "logo": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Ftechnologies%2Fmaterial-design.png?alt=media&token=48628595-84da-4962-b738-941233dda2c3",
+      "logo": "assets/img/technologies/material-design.png",
       "name": "Material Design"
     }
   ]
