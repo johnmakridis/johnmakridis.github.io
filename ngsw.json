@@ -7,22 +7,6 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.8176bb35bc978e646ea5.js",
-        "/polyfills.9f83624c7bb370dcef03.js",
-        "/runtime.26209474bfa8dc87a77c.js",
-        "/scripts.d3df72c100c4735639e3.js",
-        "/styles.e8693205dd1da5022591.css",
-        "/vendor.221a24272a3c76f25dac.js"
-      ],
-      "patterns": []
-    },
-    {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "urls": [
         "/assets/data.json",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -98,8 +82,23 @@
         "/fa-solid-900.61969d433bf265b9717a.woff",
         "/fa-solid-900.82905d8d1c06969df11c.svg",
         "/fa-solid-900.b5596f4d339f99e3d69b.eot",
-        "/fa-solid-900.b70cea0339374107969e.ttf"
+        "/fa-solid-900.b70cea0339374107969e.ttf",
+        "/favicon.ico",
+        "/index.html",
+        "/main.8176bb35bc978e646ea5.js",
+        "/polyfills.9f83624c7bb370dcef03.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/scripts.d3df72c100c4735639e3.js",
+        "/styles.e8693205dd1da5022591.css",
+        "/vendor.221a24272a3c76f25dac.js"
       ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
       "patterns": []
     }
   ],
