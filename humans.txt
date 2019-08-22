@@ -12,11 +12,11 @@ Location: Heraklion, Greece.
                                 
 /* SITE */
                             
-Last update: 2019/03/07 
+Last update: 2019/08/22
                         
 Standards: HTML5, CSS3, TypeScript, JavaScript
                          
-Components: Angular, Bootstrap.
+Components: Angular, Material Design.
                           
 Software: Visual Studio Code
    
