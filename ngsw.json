@@ -7,7 +7,6 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/js/scripts.js",
         "/favicon.ico",
         "/index.html",
         "/main.8176bb35bc978e646ea5.js",
@@ -151,7 +150,6 @@
     "/assets/img/technologies/nodejs.png": "4b643dd680ea6cbb2e2a8b48e132a3e2b5e0f09d",
     "/assets/img/technologies/php.png": "b9224684acab7be03591411a7db23856fa3be228",
     "/assets/img/technologies/typescript.png": "85025a1ada7bd91b276efad1d59580577a6d454b",
-    "/assets/js/scripts.js": "bb5eed65702b7025b9eba05676534e0dfc01a173",
     "/fa-brands-400.4b115e1153a9ea339d6a.woff2": "f988b2efe9434b0af28943708d33dd3afad9a5ba",
     "/fa-brands-400.80533988ff5fecd5be26.svg": "94b435b77d62b21bbb378d9a4dbc18494225eb0a",
     "/fa-brands-400.b90365bccdabd68c6c03.woff": "ead05c8f530e600a8e27cab0ff7065d7a41b7b0f",
