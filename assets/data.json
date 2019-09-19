@@ -6,7 +6,7 @@
     "headline": "Software Engineer",
     "location": "Heraklion, Greece",
     "intro_text": "Hello! I'm John. I am a programmer with passion for designing and developing modern web applications and information systems. I have been dealing with computer science for the last eight years and I have developed the set of skills required to offer customized solutions to enterprises and individuals, aiming to fully meet their daily needs with intelligent and automated systems.",
-    "short_bio": "<p class='align-justify'>I was born on December 2, 1991 in Patras, Greece and currently I live in the city of Heraklion Crete, Greece. At the age of 17 I made my first steps in computer science by learning the basics on the computer architecture, data structures, databases and programming. In 2010, after my graduation from high school, I started my university studies at <a href='http://teicrete.gr/en' target='_blank' rel='noreferrer'>Technological Educational Institute of Crete</a> where I received the BSc degree in Information Systems from the <a href='http://www.teicrete.gr/bm/en' target='_blank' rel='noreferrer'>Department of Business Planning and Information Systems</a>. </p> <p class='align-justify'>In 2016, I started my postgraduate studies at the <a href='http://www.teicrete.gr/ie/en' target='_blank' rel='noreferrer'>Department of Informatics Engineering</a> of Technological Educational Institute of Crete and I received the MSc degree in Informatics and Multimedia with specialization in Software Technology and Applications in early 2018.</p> <p class='align-justify'> Since May 2016, I am Research Associate of the research laboratory <a href='http://www.e-bilab.gr/en/' target='_blank' rel='noreferrer'>e-Business Intelligence Lab</a> of TEI Crete. My research interests are focused on areas such as web programming & technologies, data analytics, business intelligence and machine learning. </p> <p class='align-justify'>Today I'm working as software developer specialized in analysis, design and development of web applications and information systems. Currently, I’m working as a front-end developer at <a href='http://mentionlytics.com' target='_blank' rel='noreferrer'>Mentionlytics LTD</a>. Also, I'm working voluntarily as web manager at <a href='http://bizrupt.gr' target='_blank' rel='noreferrer'>Bizrupt Lab</a> and co-organizer at <a href='http://opencoffeeheraklion.gr' target='_blank' rel='noreferrer'>Open Coffee Heraklion</a>. In my spare time, I like to listen and mix music and playing online games. :) </p>",
+    "short_bio": "<p class='align-justify'>I was born on December 2, 1991 in Patras, Greece and currently I live in the city of Heraklion Crete, Greece. At the age of 17 I made my first steps in computer science by learning the basics on the computer architecture, data structures, databases and programming. In 2010, after my graduation from high school, I started my university studies at <a href='http://hmu.gr' target='_blank' rel='noreferrer'>Technological Educational Institute of Crete</a> where I received the BSc degree in Information Systems from the <a href='https://www.hmu.gr/mst/' target='_blank' rel='noreferrer'>Department of Business Planning and Information Systems</a>. </p> <p class='align-justify'>In 2016, I started my postgraduate studies at the <a href='https://www.hmu.gr/ece' target='_blank' rel='noreferrer'>Department of Electrical & Computer Engineering</a> of Helenic Mediterranean University and I received the MSc degree in Informatics and Multimedia with specialization in Software Technology and Applications in early 2018.</p> <p class='align-justify'> Since May 2016, I am Research Associate of the research laboratory <a href='http://www.e-bilab.gr/en/' target='_blank' rel='noreferrer'>e-Business Intelligence Lab</a> of HMU. My research interests are focused on areas such as web programming & technologies, data analytics, business intelligence and machine learning. </p> <p class='align-justify'>Today I'm working as software developer specialized in analysis, design and development of web applications and information systems. Currently, I’m working as a front-end developer at <a href='http://mentionlytics.com' target='_blank' rel='noreferrer'>Mentionlytics LTD</a>. Also, I'm working voluntarily as web manager at <a href='http://bizrupt.gr' target='_blank' rel='noreferrer'>Bizrupt Lab</a> and co-organizer at <a href='http://opencoffeeheraklion.gr' target='_blank' rel='noreferrer'>Open Coffee Heraklion</a>. In my spare time, I like to listen and mix music and playing online games. :) </p>",
     "social": {
       "github_url": "https://github.com/johnmakridis",
       "linkedin_url": "https://www.linkedin.com/in/johnmakridis"
@@ -15,15 +15,15 @@
   "education": [
     {
       "degree": "MSc in Informatics and Multimedia",
-      "department": "Department of Informatics Engineering",
+      "department": "Department of Electrical & Computer Engineering",
       "grade": "9.02",
-      "institute": "Technological Educational Institute of Crete",
+      "institute": "Hellenic Mediterranean University",
       "logo": "assets/img/education/teicrete_transparent.png",
       "period": "September 2016 - February 2018",
       "specialization": "Software Technology and Applications",
       "thesis": "«Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSNs)»",
       "thesis_url": "https://doi.org/10.13140/RG.2.2.26878.69442/1",
-      "website": "http://teicrete.gr/en"
+      "website": "http://hmu.gr"
     },
     {
       "degree": "BSc in Information Systems",
@@ -35,7 +35,7 @@
       "specialization": null,
       "thesis": "«Design and development of qualified special purpose CRM system»",
       "thesis_url": "http://hdl.handle.net/11713/7611",
-      "website": "http://teicrete.gr/en"
+      "website": "http://hmu.gr"
     }
   ],
   "experience": [
@@ -60,13 +60,13 @@
       "website": "http://www.e-bilab.gr/en/welcome"
     },
     {
-      "company": "Technological Educational Institute of Crete",
-      "description": "Department of Informatics Engineering<br>Courses: <ul> <li> Web Development </li> <li>Databases</li> <li>Programming Languages (C++)</li> </ul>",
+      "company": "Hellenic Mediterranean University",
+      "description": "Department of Electrical & Computer Engineering<br>Courses: <ul> <li> Web Development </li> <li>Databases</li> <li>Programming Languages (C++)</li> </ul>",
       "id": 2,
       "logo": "assets/img/experience/tei-of-crete.png",
       "period": "February 2017 - February 2018",
       "position": "Laboratory Teaching Assistant",
-      "website": "http://teicrete.gr/en"
+      "website": "http://hmu.gr"
     },
     {
       "company": "Ubicom | Business Consultants",
@@ -103,6 +103,45 @@
   "projects": [
     {
       "full_description": "",
+      "id": 10,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fxalkiadakis-admin.png?alt=media&token=21766be7-e3a8-4658-ad87-1396a6de2c5b",
+      "name": "SM Xalkiadakis Mobile App Dashboard",
+      "project_class": "filter-web-app",
+      "project_date": "August 2019 - October 2019",
+      "project_type": "Web Application",
+      "project_type_class": "web-app",
+      "project_website": "",
+      "short_description": "Web application for managing the content of SM Xalkiadakis Mobile App.",
+      "work_type": "Team Work"
+    },
+    {
+      "full_description": "",
+      "id": 9,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fxalkiadakis-mobile.png?alt=media&token=72c17fea-8ca8-4d57-963a-814a8ed73ae7",
+      "name": "SM Xalkiadakis Mobile App",
+      "project_class": "filter-mobile-app",
+      "project_date": "February 2019 - September 2019",
+      "project_type": "Mobile App",
+      "project_type_class": "mobile-app",
+      "project_website": "",
+      "short_description": "Mobile application (Android & iOS) - and REST API back-end - for supermarket chain Xalkiadakis S.A.",
+      "work_type": "Team Work"
+    },
+    {
+      "full_description": "",
+      "id": 8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Ffoodsaveshare-a2u.png?alt=media&token=f5b34d9d-d0c1-4a23-a171-9495d8516dc6",
+      "name": "FoodSaveShare",
+      "project_class": "filter-mobile-app",
+      "project_date": "August 2018 - Present",
+      "project_type": "Mobile App",
+      "project_type_class": "mobile-app",
+      "project_website": "https://foodsaveshare.gr",
+      "short_description": "Mobile application (Android) - and REST API back-end - to support families in reducing avoidable food waste. A project co-financed by the <a href='https://ec.europa.eu/regional_policy/en/funding/erdf/' target='_blank'>ERDF</a> through the <a href='https://www.uia-initiative.eu/en' target='_blank'>Urban Innovative Actions Initiative</a>.",
+      "work_type": "Team Work"
+    },
+    {
+      "full_description": "",
       "id": 7,
       "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Finfiniteblueapts.png?alt=media&token=46f2a4d8-c9ee-4173-a7cc-80257ebf0848",
       "name": "InfiniteBlueApts.com",
@@ -137,7 +176,7 @@
       "project_type": "Web Application",
       "project_type_class": "web-app",
       "project_website": "",
-      "short_description": "Custom single-page web application (SPA) interconnected with information system Pegasus ERP through RESTful API Service.",
+      "short_description": "Custom single-page web application (SPA) interconnected with information system <a href='https://www.tesae.gr/Pegasus-Web-App/Pegasus-Web-App-ERP' target='_blank'>Pegasus ERP</a> through RESTful API Service.",
       "work_type": "Individual Work"
     },
     {
@@ -149,7 +188,7 @@
       "project_date": "June 2016",
       "project_type": "Website",
       "project_type_class": "website",
-      "project_website": "http://www.re-search.gr/",
+      "project_website": "",
       "short_description": "Custom Search Engine (CSE) based on Google where users can find information from the higher education structures in Greece.",
       "work_type": "Team Work"
     },
@@ -189,7 +228,7 @@
       "project_type": "Web Application",
       "project_type_class": "web-app",
       "project_website": "",
-      "short_description": "CRM web application specialized for accountants using open source web technologies. My undergraduate degree thesis.",
+      "short_description": "CRM web application specialized for accountants using open source web technologies. <a href='https://www.slideshare.net/JohnMakridis/design-and-development-of-qualified-special-purpose-crm-system-in-greek' target='_blank'>My Bachelor's thesis (GR).</a>",
       "work_type": "Individual Work"
     },
     {
