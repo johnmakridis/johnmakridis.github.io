@@ -363,7 +363,7 @@
       "name": "Angular"
     },
     {
-      "logo": "assets/img/technologies/ionic-framework.png",
+      "logo": "assets/img/technologies/ionic.png",
       "name": "Ionic"
     },
     {
@@ -375,7 +375,7 @@
       "name": "CSS"
     },
     {
-      "logo": "assets/img/technologies/electron.png",
+      "logo": "assets/img/technologies/electron-1.png",
       "name": "Electron"
     },
     {
@@ -393,6 +393,22 @@
     {
       "logo": "assets/img/technologies/firebase.png",
       "name": "Firebase"
+    },
+    {
+      "logo": "assets/img/technologies/postgresql.png",
+      "name": "PostgreSQL"
+    },
+    {
+      "logo": "assets/img/technologies/mongodb.png",
+      "name": "MongoDB"
+    },
+    {
+      "logo": "assets/img/technologies/google-cloud-platform.png",
+      "name": "Google Cloud Platform"
+    },
+    {
+      "logo": "assets/img/technologies/elasticsearch.png",
+      "name": "Elasticsearch"
     },
     {
       "logo": "assets/img/technologies/bootstrap.png",
