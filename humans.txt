@@ -2,21 +2,19 @@
                             
 John Makridis          
             
-Site: https://johnmakridis.github.io   
-                       
-Twitter: @john_makridis
-                          
+Site: https://johnmakridis.github.io 
+        
 Location: Heraklion, Greece.
 
                          
                                 
 /* SITE */
                             
-Last update: 2019/08/22
+Last update: 2019/11/03
                         
-Standards: HTML5, CSS3, TypeScript, JavaScript
+Standards: HTML, CSS, TypeScript, JavaScript
                          
-Components: Angular, Material Design.
+Components: Angular
                           
 Software: Visual Studio Code
    
