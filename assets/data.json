@@ -275,6 +275,20 @@
       "url": "https://doi.org/10.1007/978-3-319-76908-0_34"
     },
     {
+      "abstract": "Current research argues that the use of social networks can be a dominant resource for acquiring valuable knowledge about tourist destinations through the collection of data from Location-Based Social Networks (LBSN). This approach can provide solutions to problems and significant benefits to enterprises and local authorities. One of the most important problems is the lack of knowledge about the visitor's opinion for a destination, as well as the fact that the visitors' behavior, needs and preferences are not visible. Nowadays, enterprises and local authorities are still using the traditional method for acquiring valuable knowledge to make strategic decisions, using data from surveys conducted using questionnaires. In this process, despite the benefits it can offer, it can be observed that it is not continuous, it is not adaptable, and the number of the participants in most of the cases is quite small compared to the total number of visitors. This thesis presents the methodology for extraction, association, analysis and visualization of data derived from Location-Based Social Networks, providing valuable knowledge about visitors’ behavior, impressions and preferences for tourist destinations. In that context, using a case study of the region of Crete (Greece) as tourist destination the overall insights of visitors are identified. Utilizing state of the art web technologies for the development of this monitoring framework, we will collect publicly available social data for the selected tourism destinations. Some of the data that need to be collected for the process of analysis are the visitors’ posts and reviews, publication’s date and time, published photos, places’ rankings, user’s profile, nationality and engagement. After the completion of data collection, the correlation and analysis are followed, presenting data visualization in a proper and efficient way to the stakeholders. Having acquired this valuable knowledge about the visitors’ behavior and preferences, the stakeholders such as local authorities, enterprises etc. can make a more efficient promotion of tourist destinations based on the needs of visitors, improvement of the existing facilities and creation of new experiences attracting the interest of more potential visitors.",
+      "book": null,
+      "conference": "",
+      "doi": "DOI: <a href='https://doi.org/10.13140/RG.2.2.26878.69442/1' target='_blank' rel='noreferrer'>https://doi.org/10.13140/RG.2.2.26878.69442/1 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 3,
+      "journal": null,
+      "published_date": "July 26, 2018",
+      "published_in": null,
+      "publisher": "",
+      "title": "Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSN)",
+      "type": "Master's Thesis",
+      "url": "https://doi.org/10.13140/RG.2.2.26878.69442/1"
+    },
+    {
       "abstract": "Social media networks are a resource for valuable knowledge about tourist destinations through the collection of data by Location-Based Social Networks (LBSN). A major problem is the lack of knowledge in respect to the visitors’ views about a destination, as well as the fact that the visitors’ behavior needs and preferences are not visible. Many enterprises and local authorities are still using traditional methods for acquiring knowledge to make strategic decisions, by collecting data from questionnaires. Nonetheless, this process, despite its benefits, is short-lived and the number of the participants is small compared to the number of visitors. This chapter discusses a methodology for the extraction, association, analysis, and visualization of data derived from LBSNs. This provides knowledge of visitor behaviors, impressions and preferences for tourist destinations. A case study of Crete in Greece is included, based upon visitors’ posts and reviews, nationality, photos, place rankings, and engagement.",
       "book": "Book: <a href='http://doi.org/10.1007/978-981-13-6339-9' target='_blank' rel='noreferrer'>Big Data and Innovation in Tourism, Travel, and Hospitality: Managerial Approaches, Techniques & Applications</a>",
       "conference": "",
@@ -289,18 +303,18 @@
       "url": ""
     },
     {
-      "abstract": "Current research argues that the use of social networks can be a dominant resource for acquiring valuable knowledge about tourist destinations through the collection of data from Location-Based Social Networks (LBSN). This approach can provide solutions to problems and significant benefits to enterprises and local authorities. One of the most important problems is the lack of knowledge about the visitor's opinion for a destination, as well as the fact that the visitors' behavior, needs and preferences are not visible. Nowadays, enterprises and local authorities are still using the traditional method for acquiring valuable knowledge to make strategic decisions, using data from surveys conducted using questionnaires. In this process, despite the benefits it can offer, it can be observed that it is not continuous, it is not adaptable, and the number of the participants in most of the cases is quite small compared to the total number of visitors. This thesis presents the methodology for extraction, association, analysis and visualization of data derived from Location-Based Social Networks, providing valuable knowledge about visitors’ behavior, impressions and preferences for tourist destinations. In that context, using a case study of the region of Crete (Greece) as tourist destination the overall insights of visitors are identified. Utilizing state of the art web technologies for the development of this monitoring framework, we will collect publicly available social data for the selected tourism destinations. Some of the data that need to be collected for the process of analysis are the visitors’ posts and reviews, publication’s date and time, published photos, places’ rankings, user’s profile, nationality and engagement. After the completion of data collection, the correlation and analysis are followed, presenting data visualization in a proper and efficient way to the stakeholders. Having acquired this valuable knowledge about the visitors’ behavior and preferences, the stakeholders such as local authorities, enterprises etc. can make a more efficient promotion of tourist destinations based on the needs of visitors, improvement of the existing facilities and creation of new experiences attracting the interest of more potential visitors.",
+      "abstract": "",
       "book": null,
-      "conference": "",
-      "doi": "DOI: <a href='https://doi.org/10.13140/RG.2.2.26878.69442/1' target='_blank' rel='noreferrer'>https://doi.org/10.13140/RG.2.2.26878.69442/1 <i class='fa fa-link fa-xs'></i></a>",
-      "id": 3,
+      "conference": "Conference: <a href='https://iatour.org/icot2020/' target='_blank' rel='noreferrer'>International Conference on Tourism 2020</a>",
+      "doi": null,
+      "id": 5,
       "journal": null,
-      "published_date": "July 26, 2018",
+      "published_date": "September 17, 2020",
       "published_in": null,
       "publisher": "",
-      "title": "Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSN)",
-      "type": "Master's Thesis",
-      "url": "https://doi.org/10.13140/RG.2.2.26878.69442/1"
+      "title": "Data-driven Location Intelligence for Tourism Destinations: A comparative analysis between Crete and Cyprus",
+      "type": "Conference Paper",
+      "url": "https://iatour.org/icot2020/wp-content/uploads/2020/09/ICOT2020-BOOK-OF-ABSTRACTS-FINAL-1.pdf"
     }
   ],
   "services": [
