@@ -40,6 +40,16 @@
   ],
   "experience": [
     {
+      "company": "Tourmie",
+      "current": true,
+      "description": "",
+      "id": 5,
+      "logo": "assets/img/experience/tourmie_small.png",
+      "period": "May 2020 - Present",
+      "position": "Software Engineer",
+      "website": "https://tourmie.com/"
+    },
+    {
       "company": "Mentionlytics",
       "current": true,
       "description": "<ul><li>Web & Mobile Application Development</li></ul>",
