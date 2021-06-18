@@ -10,12 +10,12 @@
         "/assets/js/scripts.js",
         "/favicon.ico",
         "/index.html",
-        "/main.96f9ca8d960ab5322a92.js",
+        "/main.fcf38b7675c251e07951.js",
         "/polyfills.9f83624c7bb370dcef03.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.d3df72c100c4735639e3.js",
-        "/styles.8fa449163fafd687f010.css",
-        "/vendor.221a24272a3c76f25dac.js"
+        "/styles.8996b2cbeac0f9cd653c.css",
+        "/vendor.319c86245b6dd8e4f02c.js"
       ],
       "patterns": []
     },
@@ -113,7 +113,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/data.json": "fb1680c9b1beb8fdb5421f70c5c8986dbe808035",
+    "/assets/data.json": "8cf21d9532547d8bbdfccdbe6658e4c73c4bdc8e",
     "/assets/icons/icon-128x128.png": "9733da19364693176ecb58eb945893a0e253a66d",
     "/assets/icons/icon-144x144.png": "686da1f9ae0937be6c11750b0c45ebb1ab9b0979",
     "/assets/icons/icon-152x152.png": "d1cedcafb05045378fc37cd1736ff90810368081",
@@ -198,13 +198,13 @@
     "/fa-solid-900.b5596f4d339f99e3d69b.eot": "6275300c533b525bd590a7e8190ee00c67928313",
     "/fa-solid-900.b70cea0339374107969e.ttf": "3f760416638f6459ade7251b80fd7bc27d6ad1c6",
     "/favicon.ico": "ac3f16aa7ed24337347400b452bc1c7b89e089a8",
-    "/index.html": "4e477640d39b95e7e78850eb2f87134005e1bcde",
-    "/main.96f9ca8d960ab5322a92.js": "919dbecf8312dc0316989e97a05e56ec3b3f4400",
+    "/index.html": "0721a0d5598a107d98d007aa52babc165d39df80",
+    "/main.fcf38b7675c251e07951.js": "50c7711863bf136ef60b97c839d33ef17565046d",
     "/polyfills.9f83624c7bb370dcef03.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.d3df72c100c4735639e3.js": "c74df630bc12a8a184c6fbafabd6ce4843937490",
-    "/styles.8fa449163fafd687f010.css": "2afb28f2d4292aea5891dcc9bc7dae42628c3025",
-    "/vendor.221a24272a3c76f25dac.js": "43d052e154d166d2928967f70d1c813623817d6b"
+    "/styles.8996b2cbeac0f9cd653c.css": "2afb28f2d4292aea5891dcc9bc7dae42628c3025",
+    "/vendor.319c86245b6dd8e4f02c.js": "a4bee9fbe7a1eacf77441861cb008396e6c31b27"
   },
   "navigationUrls": [
     {
