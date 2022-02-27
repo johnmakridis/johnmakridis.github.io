@@ -313,7 +313,7 @@
       "url": ""
     },
     {
-      "abstract": "",
+      "abstract": "Nowadays, local authorities and tourism enterprises are using conventional methods like surveys and opinion polls for collecting data and strategic decision making. Despite the benefits of these approaches, they present significant disadvantages such as time-consuming and sample size. This research paper investigates the user-generated data in Location-based Social Networks (LBSNs) that can be a great resource of knowledge for understanding people’s behavior details and movement flows in tourism destinations. Focusing on tourism and location-based social media networks, this research reveals a novel approach to leverage massive unstructured data for knowledge extraction. In contrast to the conventional spatio-temporal data, big social media data offer dynamically to innovation and value creation through improving the strategic decision-making process of tourism destination stakeholders. The approach integrates location and big data analytics techniques and it is implemented based upon geotagged user-generated data shared on the two largest islands in the Mediterranean Sea, the island of Crete (Greece), and the island of Cyprus that are popular summertime tourist destinations. The comparison between two tourist destinations with common characteristics provides additional insights into the potential of each destination and areas of improvement. Practical implications are arising through the efficient spatio-temporal and demographic analysis of tourist movement in both tourism destinations for improving the strategic decision making of stakeholders like local authorities and tourism SMEs leading to innovation and value creation. In addition, DMOs can leverage the new knowledge for developing innovative marketing strategies, strengthening destination branding, and gaining a competitive advantage against rival tourism destinations.",
       "book": null,
       "conference": "Conference: <a href='https://iatour.org/icot2020/' target='_blank' rel='noreferrer'>International Conference on Tourism 2020</a>",
       "doi": null,
@@ -325,6 +325,34 @@
       "title": "Data-driven Location Intelligence for Tourism Destinations: A comparative analysis between Crete and Cyprus",
       "type": "Conference Paper",
       "url": "https://iatour.org/icot2020/wp-content/uploads/2020/09/ICOT2020-BOOK-OF-ABSTRACTS-FINAL-1.pdf"
+    },
+    {
+      "abstract": "In Europe, it is estimated that households are responsible for the largest portion of foodwaste generation, which contributes up to 16% of the CO2 emissions of the food supplychain. Major reasons for household food waste generation are food spoilage, date labelconfusion, overbuying, and poor shopping planning (Gunders, 2017). Thus, food-wasteprevention  at  the  household  level  is  largely  an  issue  of  optimizing  food  resourcesmonitoring. Here we address this issue by designing and launching a decision supporttool implemented in a smart phone application, the FoodSaveShare App. FoodSaveSharecombines data from user input and supermarket loyalty schemes to take advantage oftheir combined shopping tracking features. The App features a shopping list functionalitythat allows either selection from a list of over 14,000 products as well as product barcodescanning and manual entry, and subsequent crossing-out during shopping. Shopping listsare linked with the loyalty account, thus allowing household members to create and sharecommon lists. After purchase, tips are provided about optimal storage of purchased fooditems.  Food  products  are  assigned  approximate  expiration  dates  based  on  food  andpackaging type, drawing from a list of 597 possible types. Notifications offer remindersabout  eminent  expiration  dates  and  provide  suggestions  about  the  utilization  of  fooditems that are about to expire or are on the shelf, drawing from a list of over 7,000recipes.  Additional  functionality  allows  users  to  identify  products  that  have  beenconsumed  in  time  or  had  to  be  discarded.  Statistics  such  as  purchase  history  andresources  spent  versus  resources  saved  allow  for  a  better  overview  and  provideincentives  for  better  shopping  and  consumption  habits.  The  FoodSaveShare  App  waslaunched  during  the  A2UFood  Project  (Chroni  et  al.,  2019)  that  includes  food  wasteprevention actions at the household level. The App has been tested under real customerdata and conditions and is scheduled to be adopted by the largest supermarket franchiseof the Island of Crete, Greece.",
+      "book": null,
+      "conference": "Conference: <a href='https://retaste.gr' target='_blank' rel='noreferrer'>RETASTE: Rethink Food Waste</a>",
+      "doi": "DOI: <a href='https://doi.org/10.13140/RG.2.2.16488.14086' target='_blank' rel='noreferrer'>https://doi.org/10.13140/RG.2.2.16488.14086 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 6,
+      "journal": null,
+      "published_date": "May 10, 2021",
+      "published_in": null,
+      "publisher": "",
+      "title": "Managing Household Food Waste with the FoodSaveShare Mobile App",
+      "type": "Conference Paper",
+      "url": "https://doi.org/10.13140/RG.2.2.16488.14086"
+    },
+    {
+      "abstract": "The existing practical research that social media and location intelligence in tourism is utilising a part of the possibilities that big data analytics can offer. Therefore, innovative big data analytics applications can provide new knowledge about behavioural data and perceptions in tourism destinations. This research develops an innovative approach of leveraging geotagged user-generated content in location-based social networks (LBSNs) for tourism destinations. In contrast to the conventional spatio-temporal analysis, valuable knowledge is extracted about travellers' behaviour, experiences, and opinions for tourist destinations. Our approach's contribution has been demonstrated using user-generated content for the two largest islands in the Mediterranean sea, Crete and Cyprus. The results of our study provide significant insights about the characteristics of the visitors in specific spots, their preferences, opinions and their tempo-spatial movements in tourism destinations - offering valuable information to tourism stakeholders for instant and effective strategic decision making that can lead to innovation and value creation.",
+      "book": null,
+      "conference": null,
+      "doi": "DOI: <a href='https://doi.org/10.1504/IJTP.2021.118664' target='_blank' rel='noreferrer'>https://doi.org/10.1504/IJTP.2021.118664 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 7,
+      "journal": "International Journal of Tourism Policy Vol. 11, No. 3",
+      "published_date": "October 28, 2021",
+      "published_in": null,
+      "publisher": "International Journal of Tourism Policy",
+      "title": "Location Intelligence for Tourism Destinations: A Big Data Comparative Analysis through Location-Based Social Networks",
+      "type": "Journal Article",
+      "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTP.2021.118664"
     }
   ],
   "services": [

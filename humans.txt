@@ -1,22 +1,22 @@
 /* TEAM */
-                            
-John Makridis          
-            
-Site: https://johnmakridis.github.io   
-                       
+
+John Makridis
+
+Site: https://johnmakridis.github.io
+
 Twitter: @john_makridis
-                          
+
 Location: Heraklion, Greece.
 
-                         
-                                
+
+
 /* SITE */
-                            
-Last update: 2021/06/17
-                        
+
+Last update: 2022/02/27
+
 Standards: HTML5, CSS3, TypeScript, JavaScript
-                         
+
 Components: Angular
-                          
+
 Software: Visual Studio Code
-   
+
