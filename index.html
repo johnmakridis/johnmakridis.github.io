@@ -64,6 +64,23 @@
     gtag('config', 'UA-89409122-1');
   </script>
 
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "//matomo.makridis.dev/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '1']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+
+
 <script src="runtime-es2015.66c79b9d36e7169e27b0.js" type="module"></script><script src="runtime-es5.66c79b9d36e7169e27b0.js" nomodule defer></script><script src="polyfills-es5.48766ff4b4d6bded086d.js" nomodule defer></script><script src="polyfills-es2015.4eb191482be2254421ff.js" type="module"></script><script src="scripts.6fcf16cdf46dc030c3db.js" defer></script><script src="main-es2015.5999137f9aff521b9b93.js" type="module"></script><script src="main-es5.5999137f9aff521b9b93.js" nomodule defer></script></body>
 
 </html>
