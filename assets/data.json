@@ -5,11 +5,12 @@
     "fullname": "John Makridis",
     "headline": "Software Engineer",
     "location": "Heraklion, Greece",
-    "intro_text": "Hello! I'm John. I am a programmer with passion for designing and developing modern web applications and information systems. I have been dealing with computer science for the last eight years and I have developed the set of skills required to offer customized solutions to enterprises and individuals, aiming to fully meet their daily needs with intelligent and automated systems.",
+    "intro_text": "Hello! I'm John. I am a software engineer with a passion for designing and developing modern web applications and information systems. I have been dealing with computer science since 2012 and I have developed the set of skills required to offer customized solutions to enterprises and individuals, aiming to fully meet their daily needs with intelligent and automated systems.",
     "short_bio": "<p class='align-justify'>I was born on December 2, 1991 in Patras, Greece and currently I live in the city of Heraklion Crete, Greece. At the age of 17 I made my first steps in computer science by learning the basics on the computer architecture, data structures, databases and programming. In 2010, after my graduation from high school, I started my university studies at <a href='http://hmu.gr' target='_blank' rel='noreferrer'>Technological Educational Institute of Crete</a> where I received the BSc degree in Information Systems from the <a href='https://www.hmu.gr/mst/' target='_blank' rel='noreferrer'>Department of Business Planning and Information Systems</a>. </p> <p class='align-justify'>In 2016, I started my postgraduate studies at the <a href='https://www.hmu.gr/ece' target='_blank' rel='noreferrer'>Department of Electrical & Computer Engineering</a> of Helenic Mediterranean University and I received the MSc degree in Informatics and Multimedia with specialization in Software Technology and Applications in early 2018.</p> <p class='align-justify'> Since May 2016, I am Lab Associate of the research laboratory <a href='http://www.e-bilab.gr/en/' target='_blank' rel='noreferrer'>e-Business Intelligence Lab</a> of HMU. My research interests are focused on areas such as web programming & technologies, data analytics, business intelligence and machine learning. </p> <p class='align-justify'>Today I'm working as software developer specialized in analysis, design and development of web applications and information systems. Currently, I’m working as a front-end developer at <a href='http://mentionlytics.com' target='_blank' rel='noreferrer'>Mentionlytics LTD</a>. Also, I'm working voluntarily as web manager at <a href='http://bizrupt.gr' target='_blank' rel='noreferrer'>Bizrupt Lab</a> and co-organizer at <a href='http://opencoffeeheraklion.gr' target='_blank' rel='noreferrer'>Open Coffee Heraklion</a>. In my spare time, I like to listen and mix music and playing online games. :) </p>",
     "social": {
       "github_url": "https://github.com/johnmakridis",
-      "linkedin_url": "https://www.linkedin.com/in/johnmakridis"
+      "linkedin_url": "https://www.linkedin.com/in/johnmakridis",
+      "researchgate_url": "https://www.researchgate.net/profile/John-Makridis"
     }
   },
   "education": [
@@ -355,6 +356,15 @@
       "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTP.2021.118664"
     }
   ],
+  "awards": [
+    {
+      "id": 1,
+      "title": "Best Paper Award",
+      "subtitle": "International Conference on Tourism 2020",
+      "date": "September 18, 2020",
+      "description": "For the paper \"Data-driven Location Intelligence for Tourism Destinations - A comparative analysis between Crete and Cyprus\" by Vassakis K., Petrakis E., Kopanakis I., and Makridis J."
+    }
+  ],
   "services": [
     {
       "image": "assets/img/services/software-development-icon.png",
@@ -399,12 +409,12 @@
   ],
   "technologies": [
     {
-      "logo": "assets/img/technologies/javascript.png",
-      "name": "JavaScript"
-    },
-    {
       "logo": "assets/img/technologies/typescript.png",
       "name": "TypeScript"
+    },
+    {
+      "logo": "assets/img/technologies/javascript.png",
+      "name": "JavaScript"
     },
     {
       "logo": "assets/img/technologies/nodejs.png",
@@ -419,6 +429,10 @@
       "name": "Ionic"
     },
     {
+      "logo": "assets/img/technologies/electron-1.png",
+      "name": "Electron"
+    },
+    {
       "logo": "assets/img/technologies/html5.png",
       "name": "HTML"
     },
@@ -427,35 +441,31 @@
       "name": "CSS"
     },
     {
-      "logo": "assets/img/technologies/electron-1.png",
-      "name": "Electron"
-    },
-    {
       "logo": "assets/img/technologies/jquery.png",
       "name": "jQuery"
-    },
-    {
-      "logo": "assets/img/technologies/php.png",
-      "name": "PHP"
     },
     {
       "logo": "assets/img/technologies/mysql.png",
       "name": "MySQL"
     },
     {
-      "logo": "assets/img/technologies/firebase.png",
-      "name": "Firebase"
-    },
-    {
       "logo": "assets/img/technologies/postgresql.png",
       "name": "PostgreSQL"
+    },
+    {
+      "logo": "assets/img/technologies/graphql.png",
+      "name": "GraphQL"
+    },
+    {
+      "logo": "assets/img/technologies/firebase.png",
+      "name": "Firebase"
     },
     {
       "logo": "assets/img/technologies/mongodb.png",
       "name": "MongoDB"
     },
     {
-      "logo": "assets/img/technologies/google-cloud-platform.png",
+      "logo": "assets/img/technologies/google-cloud-platform-1.png",
       "name": "Google Cloud Platform"
     },
     {
@@ -465,10 +475,6 @@
     {
       "logo": "assets/img/technologies/bootstrap.png",
       "name": "Bootstrap"
-    },
-    {
-      "logo": "assets/img/technologies/material-design.png",
-      "name": "Material Design"
     }
   ]
 }

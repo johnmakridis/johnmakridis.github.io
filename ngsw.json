@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653688289661,
+  "timestamp": 1669424190879,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,14 +14,14 @@
         "/assets/js/scripts.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.5999137f9aff521b9b93.js",
-        "/main-es5.5999137f9aff521b9b93.js",
+        "/main-es2015.238cfde635facf237e8c.js",
+        "/main-es5.238cfde635facf237e8c.js",
         "/polyfills-es2015.4eb191482be2254421ff.js",
         "/polyfills-es5.48766ff4b4d6bded086d.js",
         "/runtime-es2015.66c79b9d36e7169e27b0.js",
         "/runtime-es5.66c79b9d36e7169e27b0.js",
-        "/scripts.6fcf16cdf46dc030c3db.js",
-        "/styles.65fe667e2103d3b00f07.css"
+        "/scripts.41d0bda1132cdd88117f.js",
+        "/styles.690304ceb8f641f71aea.css"
       ],
       "patterns": []
     },
@@ -83,7 +83,9 @@
         "/assets/img/technologies/electron.png",
         "/assets/img/technologies/firebase-1.png",
         "/assets/img/technologies/firebase.png",
+        "/assets/img/technologies/google-cloud-platform-1.png",
         "/assets/img/technologies/google-cloud-platform.png",
+        "/assets/img/technologies/graphql.png",
         "/assets/img/technologies/html5.png",
         "/assets/img/technologies/ionic-1.png",
         "/assets/img/technologies/ionic.png",
@@ -122,7 +124,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/data.json": "d64e0e0f1c1049148c4128836c40fc157de5f472",
+    "/assets/data.json": "abe41d75ba2cef91e1aebaf1e28694d29a51e5a8",
     "/assets/icons/icon-128x128.png": "9733da19364693176ecb58eb945893a0e253a66d",
     "/assets/icons/icon-144x144.png": "686da1f9ae0937be6c11750b0c45ebb1ab9b0979",
     "/assets/icons/icon-152x152.png": "d1cedcafb05045378fc37cd1736ff90810368081",
@@ -172,7 +174,9 @@
     "/assets/img/technologies/electron.png": "268104fcb85702e6af6b49240981732b65fbc743",
     "/assets/img/technologies/firebase-1.png": "9da0a5744188935f8be2d00ea8b40cd3723c71c5",
     "/assets/img/technologies/firebase.png": "62e24c49eb067497724d5966e52979edcfbdf3da",
+    "/assets/img/technologies/google-cloud-platform-1.png": "7daf5c638deba0e2c55a142816932c60c19ef294",
     "/assets/img/technologies/google-cloud-platform.png": "dc797905aa1cd498783d301e17b8de323e4e6d69",
+    "/assets/img/technologies/graphql.png": "36d052d394e980c2a8e574658203f82a438323aa",
     "/assets/img/technologies/html5.png": "8a7e7e823dd3e4d48e7ae1f98e5bf7cf3b8c27eb",
     "/assets/img/technologies/ionic-1.png": "ccd88b5cd8f25a4d01a3eb3316386487c427b41c",
     "/assets/img/technologies/ionic.png": "4a676a1e20dd6b3604bd90a65196c51d74e68ad1",
@@ -190,7 +194,7 @@
     "/assets/img/technologies/postgresql.png": "969e55676a1b690a3475fd3b937d1fe0e43dda6c",
     "/assets/img/technologies/typescript-1.png": "85025a1ada7bd91b276efad1d59580577a6d454b",
     "/assets/img/technologies/typescript.png": "b18cd89e9ab88033afd1a9cefe93e207545b7b06",
-    "/assets/js/scripts.js": "bb5eed65702b7025b9eba05676534e0dfc01a173",
+    "/assets/js/scripts.js": "81540ceacb98db4168b7af1324beaa7df25edc94",
     "/fa-brands-400.05d2018301a494e41364.svg": "94b435b77d62b21bbb378d9a4dbc18494225eb0a",
     "/fa-brands-400.0f120fbbfab0026dc172.eot": "077fb9ea340316075962ba08e4fdc96eb2e4df07",
     "/fa-brands-400.3dc44d22d80c9728e431.woff2": "f988b2efe9434b0af28943708d33dd3afad9a5ba",
@@ -207,15 +211,15 @@
     "/fa-solid-900.a838c42ad8174e8ba691.svg": "a24f75395c61216cb50d17e9c1d159984a464097",
     "/fa-solid-900.c73abe648eae6ea7e72f.woff": "594f1d426bbb705028696be1686176508b04793c",
     "/favicon.ico": "ac3f16aa7ed24337347400b452bc1c7b89e089a8",
-    "/index.html": "b7e7c7c48d95fc74752a2bbe1a4ec78d43a2dd65",
-    "/main-es2015.5999137f9aff521b9b93.js": "018a01f23a48a89b49c648c9a573aee111d91264",
-    "/main-es5.5999137f9aff521b9b93.js": "f231dc35026d94f077502ce4fa17b4728f5470b6",
+    "/index.html": "8f9dea4d4a54e162519b11c1c9cf32acbe5939f5",
+    "/main-es2015.238cfde635facf237e8c.js": "1d6530ccde2d29ab4c8be68cc50170595f0b8ed7",
+    "/main-es5.238cfde635facf237e8c.js": "fca380db8ab226175d2c62204a794bcb61797ba8",
     "/polyfills-es2015.4eb191482be2254421ff.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
     "/polyfills-es5.48766ff4b4d6bded086d.js": "62e7c03a8fed806d6df6f6908df4d42cb0f7a683",
     "/runtime-es2015.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.6fcf16cdf46dc030c3db.js": "cc4176e37d781a9584498b99f14e687e55019c0c",
-    "/styles.65fe667e2103d3b00f07.css": "0fe23a6fb9c54234698826c8fe82072ed6e4ac12"
+    "/scripts.41d0bda1132cdd88117f.js": "7fe42ea5c01e403f7b7af31efc3956fc72e481a6",
+    "/styles.690304ceb8f641f71aea.css": "e9da824e8d87a2800bf5355df2e27ed745001b03"
   },
   "navigationUrls": [
     {
