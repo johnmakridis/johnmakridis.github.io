@@ -114,6 +114,19 @@
   "projects": [
     {
       "full_description": "",
+      "id": 11,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Ftcba.png?alt=media&token=fd387a59-9307-495e-8d59-4ece7588dbad",
+      "name": "TheCentralBoutiqueApartments.com",
+      "project_class": "filter-website",
+      "project_date": "November 2022 - May 2023",
+      "project_type": "Website",
+      "project_type_class": "website",
+      "project_website": "https://thecentralboutiqueapartments.com/",
+      "short_description": "Business website for vacation rentals presentation, direct booking engine, online payments and bookings reporting.",
+      "work_type": "Individual Work"
+    },
+    {
+      "full_description": "",
       "id": 10,
       "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Fxalkiadakis-admin.png?alt=media&token=21766be7-e3a8-4658-ad87-1396a6de2c5b",
       "name": "SM Xalkiadakis Mobile App Dashboard",
