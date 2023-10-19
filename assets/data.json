@@ -10,6 +10,7 @@
     "social": {
       "github_url": "https://github.com/johnmakridis",
       "linkedin_url": "https://www.linkedin.com/in/johnmakridis",
+      "twitter_url": "https://twitter.com/john_makridis",
       "researchgate_url": "https://www.researchgate.net/profile/John-Makridis"
     }
   },
@@ -112,6 +113,19 @@
     }
   ],
   "projects": [
+    {
+      "full_description": "",
+      "id": 11,
+      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Ftcba.png?alt=media&token=fd387a59-9307-495e-8d59-4ece7588dbad",
+      "name": "The Central Boutique Apartments",
+      "project_class": "filter-website",
+      "project_date": "November 2022 - May 2023",
+      "project_type": "Website",
+      "project_type_class": "website",
+      "project_website": "https://thecentralboutiqueapartments.com/",
+      "short_description": "Business website for vacation rentals presentation with a direct booking engine, online payments capability, and comprehensive bookings reporting.",
+      "work_type": "Individual Work"
+    },
     {
       "full_description": "",
       "id": 10,
