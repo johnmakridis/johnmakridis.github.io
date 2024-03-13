@@ -49,17 +49,7 @@
       "logo": "assets/img/experience/tourmie_small.png",
       "period": "May 2020 - Present",
       "position": "Software Engineer",
-      "website": "https://tourmie.com/"
-    },
-    {
-      "company": "Mentionlytics",
-      "current": true,
-      "description": "<ul><li>Web & Mobile Application Development</li></ul>",
-      "id": 4,
-      "logo": "assets/img/experience/mentionlytics_small.png",
-      "period": "April 2017 - Present",
-      "position": "Software Developer",
-      "website": "http://mentionlytics.com/"
+      "website": "https://tourmie.com"
     },
     {
       "company": "e-Business Intelligence Lab",
@@ -72,13 +62,23 @@
       "website": "http://www.e-bilab.gr/en/welcome"
     },
     {
+      "company": "Mentionlytics",
+      "current": true,
+      "description": "<ul><li>Web & Mobile Application Development</li></ul>",
+      "id": 4,
+      "logo": "assets/img/experience/mentionlytics_small.png",
+      "period": "April 2017 - December 2023",
+      "position": "Software Developer",
+      "website": "http://mentionlytics.com"
+    },
+    {
       "company": "Hellenic Mediterranean University",
       "description": "Department of Electrical & Computer Engineering<br>Courses: <ul> <li> Web Development </li> <li>Databases</li> <li>Programming Languages (C++)</li> </ul>",
       "id": 2,
       "logo": "assets/img/experience/tei-of-crete.png",
       "period": "February 2017 - February 2018",
       "position": "Laboratory Teaching Assistant",
-      "website": "http://hmu.gr"
+      "website": "https://ece.hmu.gr"
     },
     {
       "company": "Ubicom | Business Consultants",
