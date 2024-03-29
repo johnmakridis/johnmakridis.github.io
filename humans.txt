@@ -12,7 +12,7 @@ Location: Heraklion, Greece.
 
 /* SITE */
 
-Last update: 2024/03/14
+Last update: 2024/03/29
 
 Standards: HTML5, CSS3, TypeScript, JavaScript
 

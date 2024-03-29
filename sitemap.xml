@@ -3,7 +3,56 @@
 
   <url>
     <loc>https://johnmakridis.github.io/</loc>
-    <lastmod>2024-03-14T01:21:40+00:00</lastmod>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/education</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/experience</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/skills</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/projects</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/publications</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/awards</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/code</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://johnmakridis.github.io/contact</loc>
+    <lastmod>2024-03-29T01:21:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>
