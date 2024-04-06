@@ -368,6 +368,34 @@
       "title": "Location Intelligence for Tourism Destinations: A Big Data Comparative Analysis through Location-Based Social Networks",
       "type": "Journal Article",
       "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTP.2021.118664"
+    },
+    {
+      "abstract": "Despite the massive volumes of data tourists generate during their visit to a destination, there is little knowledge of their spatial activity and perceptions. An innovative approach that integrates both text and photo data with location-based information is demonstrated using a case study from Crete. Integration of big data techniques, location intelligence, and social networks transforming tourist experiences into valuable assets (new knowledge extraction) for more efficient strategic decision-making. The findings demonstrate how this novel approach of location and big data analytics can provide new and valuable knowledge in contrast to traditional tourist surveys and conventional spatio-temporal data. Implications arising from this study are significant assets for tourism small and medium enterprises (SMEs), destination management organisations (DMOs), and other tourism stakeholders searching for innovative marketing strategies.",
+      "book": null,
+      "conference": null,
+      "doi": "DOI: <a href='http://dx.doi.org/10.1504/IJTMKT.2023.127350' target='_blank' rel='noreferrer'>http://dx.doi.org/10.1504/IJTMKT.2023.127350 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 8,
+      "journal": "International Journal of Technology Marketing Vol. 17, No. 1, 2023",
+      "published_date": "October 24, 2022",
+      "published_in": null,
+      "publisher": "International Journal of Technology Marketing",
+      "title": "Big data analytics on location-based social networks for knowledge generation in tourism - the case of Crete Island",
+      "type": "Journal Article",
+      "url": "http://dx.doi.org/10.1504/IJTMKT.2023.127350"
+    },
+    {
+      "abstract": "It is estimated that European households are responsible for 55% of food waste generation. Key factors contributing to household food waste generation include food spoilage, confusion over expiration dates, overbuying, and inadequate shopping planning. Thus, food waste prevention at the household level depends heavily on food supplies monitoring and management. To this end, during the last decade, several consumer-oriented digital tools have been designed and launched. A literature review showed that currently accessible digital tools are scarce and cover a narrow range of functionalities. Here, we address these issues by designing and launching a decision support tool implemented in a smart mobile phone application (app), the FoodSaveShare Mobile App. The application development followed a traditional client–server architecture using state-of-the-art software and hardware technologies. Additionally, a survey of 340 individuals was conducted to better understand end-user motivation for and barriers against adopting this and similar apps. The developed application combines user-provided data with a retailer loyalty program to leverage the integrated features for tracking shopping activities. The app features a household shopping list populated by product barcode scanning and manual entry. Based on food and packaging type, food products are assigned approximate expiration dates to issue product expiration reminders. For products about to expire, suggestions for their utilization are provided, drawing from a list of over 7000 recipes. Additional functionality allows users to identify products that have either been consumed in time or that need to be discarded. Analytical tools, such as past purchase and resources discarded versus resources saved statistics, offer comprehensive insight and encourage improved shopping and consumption practices. The FoodSaveShare App was launched during the A2UFood Project, which allowed an organised campaign for its use. The app was tested under real customer data and conditions, and selected features have been adopted by the largest supermarket chain on the Island of Crete, Greece. The potential end-user survey results suggest that, provided personal data use issues are addressed, such apps can have a significant impact on reducing household food waste. Future work will focus on analysing the datasets produced by the application to assess its impact on household food waste management.",
+      "book": null,
+      "conference": null,
+      "doi": "DOI: <a href='http://dx.doi.org/10.3390/su16072800' target='_blank' rel='noreferrer'>http://dx.doi.org/10.3390/su16072800 <i class='fa fa-link fa-xs'></i></a>",
+      "id": 9,
+      "journal": "Sustainability Vol. 16, No. 7, 2024",
+      "published_date": "October 24, 2022",
+      "published_in": null,
+      "publisher": "Sustainability",
+      "title": "Managing Household Food Waste with the FoodSaveShare Mobile Application",
+      "type": "Journal Article",
+      "url": "https://www.mdpi.com/2071-1050/16/7/2800"
     }
   ],
   "awards": [
