@@ -23,7 +23,7 @@
       "logo": "assets/img/education/teicrete_transparent.png",
       "period": "September 2016 - February 2018",
       "specialization": "Software Technology and Applications",
-      "thesis": "«Big Data Analytics and Knowledge Discovery through Location-Based Social Networks (LBSNs)»",
+      "thesis": "Big Data Analytics and Knowledge Discovery through Location-Based Social Networks",
       "thesis_url": "https://doi.org/10.13140/RG.2.2.26878.69442/1",
       "website": "http://hmu.gr"
     },
@@ -35,7 +35,7 @@
       "logo": "assets/img/education/teicrete_transparent.png",
       "period": "October 2010 - December 2015",
       "specialization": null,
-      "thesis": "«Design and development of qualified special purpose CRM system»",
+      "thesis": "Design and development of qualified special purpose CRM system",
       "thesis_url": "http://hdl.handle.net/11713/7611",
       "website": "http://hmu.gr"
     }
@@ -48,7 +48,7 @@
       "id": 5,
       "logo": "assets/img/experience/tourmie_small.png",
       "period": "May 2020 - Present",
-      "position": "Software Engineer",
+      "position": "Co-Founder & CTO",
       "website": "https://tourmie.com"
     },
     {
@@ -164,19 +164,6 @@
       "project_website": "https://foodsaveshare.gr",
       "short_description": "Mobile application (<a href='https://play.google.com/store/apps/details?id=com.a2ufood.app' target='_blank'>Android</a> & <a href='https://apps.apple.com/app/id1570617147' target='_blank'>iOS</a>) - and REST API back-end - to support families in reducing avoidable food waste. A <a href='https://www.uia-initiative.eu/en' target='_blank'>Urban Innovative Actions Initiative</a> project.",
       "work_type": "Team Work"
-    },
-    {
-      "full_description": "",
-      "id": 7,
-      "image": "https://firebasestorage.googleapis.com/v0/b/jm-github-page.appspot.com/o/images%2Fprojects%2Finfiniteblueapts.png?alt=media&token=46f2a4d8-c9ee-4173-a7cc-80257ebf0848",
-      "name": "InfiniteBlueApts.com",
-      "project_class": "filter-website",
-      "project_date": "December 2017 - February 2018",
-      "project_type": "Website",
-      "project_type_class": "website",
-      "project_website": "https://infiniteblueapts.com/",
-      "short_description": "Business website for apartments' presentation including apartments management system, bookings, online payments etc.",
-      "work_type": "Individual Work"
     },
     {
       "full_description": "",
@@ -405,6 +392,27 @@
       "subtitle": "International Conference on Tourism 2020",
       "date": "September 18, 2020",
       "description": "For the paper \"Data-driven Location Intelligence for Tourism Destinations - A comparative analysis between Crete and Cyprus\" by Vassakis K., Petrakis E., Kopanakis I., and Makridis J."
+    },
+    {
+      "id": 5,
+      "title": "Greek Innovation Company",
+      "subtitle": "ShortStay Conference 2024",
+      "date": "February 10, 2024",
+      "description": "The Tourmie team won the 'Greek Innovation Company' award at the <a href=\"https://shortstayconference.gr/en/shortstay-conference-2024/\" target=\"_blank\" rel='noreferrer'>ShortStay Conference 2024</a>."
+    },
+    {
+      "id": 2,
+      "title": "Innovative Start-up",
+      "subtitle": "Tourism Awards 2024",
+      "date": "April 8, 2024",
+      "description": "The Tourmie team won the 'Gold Award' in the category 'Innovative Start-up' at the <a href=\"https://www.tourismawards.gr/\" target=\"_blank\" rel='noreferrer'>Tourism Awards 2024</a>."
+    },
+    {
+      "id": 3,
+      "title": "Digital Customer Experience Optimization Systems",
+      "subtitle": "Tourism Awards 2024",
+      "date": "April 8, 2024",
+      "description": "The Tourmie team won the 'Silver Award' in the category 'Digital Customer Experience Optimization Systems' at the <a href=\"https://www.tourismawards.gr/\" target=\"_blank\" rel='noreferrer'>Tourism Awards 2024</a>."
     }
   ],
   "services": [
